@@ -29,7 +29,7 @@ order-centric one. Not in a public repo yet; will land here once it's further al
 
 | Project | Description |
 | --- | --- |
-| [ShipStation Integration Toolkit](https://github.com/pmcgee-personal/shipstation-integration-toolkit) | Sanitized real webhook payloads, API request/response fixtures, and diagram-first (Mermaid) docs for commonly-requested ShipStation integration flows. Unofficial, not affiliated with ShipStation. |
+| [ShipStation Integration Toolkit](https://github.com/pmcgee-personal/shipstation-integration-toolkit) | Sanitized real webhook payloads, API request/response fixtures and diagram-first (Mermaid) docs for commonly-requested ShipStation integration flows. Unofficial, not affiliated with ShipStation. |
 | [ShipStation API Partner Sandbox](https://github.com/pmcgee-personal/shipstation-api-partner-sandbox) | Quick-start setup for evaluating the ShipStation API Partner integration |
 | [Parcel Tracker](https://github.com/pmcgee-personal/parcel-tracker) | Self-hosted parcel tracker — ingests real ShipStation webhooks into SQLite |
 | [ShipStation Partner API Sales Demo](https://github.com/pmcgee-personal/shipstation-partnerapi-sales-demo) | A sales enablement tool letting reps demo the ShipStation Partner API's direct login flow without managing API keys — built on AWS (Lambda, API Gateway, DynamoDB, S3, CloudFront) |
