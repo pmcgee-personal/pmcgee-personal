@@ -44,6 +44,8 @@ eCommerce Logistics · Multi-Carrier Strategy · API Integrations ·
 Pre-Sales Engineering · ERP/OMS/WMS Connectivity ·
 Post-Purchase Experience · Enterprise SaaS
 
+**Certifications:** AWS Certified Cloud Practitioner · Microsoft Certified: Azure Fundamentals (AZ-900) · Microsoft Certified: Azure AI Fundamentals (AI-901)
+
 ## 📫 Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/pmcgee)
